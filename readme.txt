@@ -1,9 +1,0 @@
-
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-
-123456
-fffff
-ggg
-
-所发生的
